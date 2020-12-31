@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+  color: aqua;
+}
+.line{
+ border:2px solid lawngreen;
+margin-top: 10px;
+
+}
+.project{
+  width:900px;  
+  text-align: center;
+  padding-left:200px;
+  
+}
+.text{
+  padding: 30px;
+}
+.pro-title{
+  font-family: 'Times New Roman';
+}
+.title{
+  border:4px dotted aqua;
+  margin-top: 10px;
+  margin-left:400px;
+  width: 100px;
+}
+.skill{
+  text-align:left;
+}
+form{
+text-align: center;
+margin-top: 0;
+}
+
+.submit{
+background-color: #3fb6b2;
+padding: 12px 45px;
+border-radius: 5px;
+font-weight: bold;
+outline: none;
+padding-top:10px;
+color: whitesmoke;
+margin: 0;
+}
+.submit:hover{
+ background-color: #43a09d;
+}
+textarea{
+height: 100px;
+}
+input,textarea{
+margin-bottom: 10px;
+font-size: 11pt;
+padding:15px 10px 10px;
+border:1px solid black;
+color: grey;
+border-radius:5px;
+width: 70%;
+}
+.pro-image{
+margin-top:10px;
+}
